@@ -106,7 +106,7 @@ dockerfile
 https://hub.docker.com/repository/docker/olegrovenskiy/elastic-01.v1
 
 
-№№  Задача 2
+##  Задача 2
 
 
 Создание индексов
